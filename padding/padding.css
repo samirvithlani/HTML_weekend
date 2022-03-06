@@ -1,0 +1,17 @@
+/* div{
+
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    border: 1px solid blue;
+    background-color: red;
+} */
+
+div{
+
+    width: auto;
+    padding: 250px;
+    box-sizing: border-box;
+    background-color: lightblue;
+}
